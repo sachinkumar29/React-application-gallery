@@ -1,0 +1,10 @@
+.gallery_container{
+    display:flex;
+}
+.galleryH1{
+    text-align: center;
+}
+.viewDiv{
+    position: static;
+    margin-left: 10%;
+}
